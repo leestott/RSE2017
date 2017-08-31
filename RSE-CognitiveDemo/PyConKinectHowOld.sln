@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RSECongitiveDemo", "RSECongitiveDemo.pyproj", "{4C418256-FB32-4540-A743-539FB2E9636B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0FE646F2-F7A0-4965-A644-B0D44B39BF08}"
+	ProjectSection(SolutionItems) = preProject
+		RSE.png = RSE.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C418256-FB32-4540-A743-539FB2E9636B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C418256-FB32-4540-A743-539FB2E9636B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {338FEA1E-F565-4F1D-9DA6-23099186542C}
+	EndGlobalSection
+EndGlobal
