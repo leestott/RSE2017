@@ -2,6 +2,8 @@
 
 The RSE are an association working to create a community and raise awareness of the UK’s Research Software Engineers. This github is the set of resources which the Microsoft team presented at the RSE 2017 Conference at Manchester MOSI event.  
 
+## The role of Software in Teaching, Learning & Research
+
 The adoption of the RSE role within academia to support Researchers and Academics in undertaking software based outcomes. 
 
 A key goal for us at Microsoft is to Influence academia to recognise the fundamental role that software plays in today’s teaching, learning and research and ensuring students, academics and support staff have exposure to tools and technologies which will enable this.
@@ -14,6 +16,7 @@ The attraction of being a Research Software Engineer is similar to that of being
 The RSE organise regular events to allow Research Software Engineers to meet, exchange knowledge and collaborate.
 
 ## Joining RSE
+
 Joining the RSE Community is easy. Sign up to the mailing list to receive notices about events http://rse.ac.uk 
 
 
